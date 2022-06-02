@@ -1,0 +1,52 @@
+.project-main{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex-direction: row;
+    margin-top: 4rem;
+    /* max-height: 100%; */
+}
+.project-left{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    /* width: 50vw; */
+    margin: 2rem;
+}
+.project-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.div-learn{
+    display: block;
+    margin: auto;
+}
+.btn-learn {
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding: 0.5rem 1rem;
+}
+.a-learn{
+    text-decoration: none;
+    color: black;
+}
+.btn-learn:hover{
+    color: white;
+    background-color: white;
+}
+.project-img{
+    max-width: 100%;
+    max-height: 100%;
+}
+@media only screen and (max-width: 800px) {
+     .project-main{
+       
+        margin-top: 0;
+      flex-direction: column;
+      margin-bottom: 3rem;
+    }
+  }
