@@ -4,7 +4,7 @@ import Footer from "./components/Footer/footer";
 import Home from "./components/Home/home";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Resume from "./components/Resume/resume";
-import Projects from "./components/projects/projects.js";
+import Projects from "./components/projects/projects";
 import Blogs from "./components/Blogs/blogs";
 import Mylearning from "./components/myLearnings/Mylearning";
 
