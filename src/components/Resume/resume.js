@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from "../../images/rajat-resume.pdf#toolbar=0"
+import resume from "../../images/RajatGangwani-FullStackEngineer.pdf"
 import "./resumestyle.css"
 
 export default function Resume() {
