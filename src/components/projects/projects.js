@@ -10,9 +10,9 @@ import projectimg from "../../images/project-completed.svg"
           A fully functional CRUD app where users can login create, update, delete memories. Even users can like and comment on memories and search for different memories.          
         </p>
         <h6>Tech Stack Used: MERN Stack</h6>
-        <h5>Concepts: Redux, Api, CRUD, MongoDB Atlas, </h5>
-        <h5>Code Link: skndksdnksnksd</h5>
-        <h5>Project Link: skndksdnksnksd</h5>
+        <h5>Concepts: Redux, REST Api, MongoDB Atlas </h5>
+        <h5>Code Link: <a target="_blank" rel="noreferrer" className='a-learn' href="https://github.com/rajat-gangwani/Memories-frontend" >click here</a></h5>
+        <h5>Project Link: <a target="_blank" rel="noreferrer" className='a-learn' href="https://memories-socialapps.netlify.app/" >click here</a></h5>
         <div className='div-learn' >
         <button className="btn-learn">
         <a className="a-learn" href="/mylearings">my Learnings</a>

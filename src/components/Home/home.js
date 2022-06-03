@@ -1,6 +1,6 @@
 import "./homestyle.css"
 import homeImg from "../../images/home-img.svg"
-import resume from "../../images/rajat-resume.pdf#toolbar=0"
+import resume from "../../images/RajatGangwani-FullStackEngineer.pdf"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -20,8 +20,7 @@ const Home = () => {
         <h2>Full Stack Developer</h2>
         
         <p className="description" >
-            I am a engineer by choice and  a tech-enthusiat by passion.
-        Curiosity made me do this. I love reading books, playing with my pet and learning new tech.
+        I am a engineer by choice and a tech-enthusiat by passion. I am MERN stack developer and fond of javascript. Building apps out of curosity and learning along the way. I enjoy reading books, playing with my pet and being a GEEK.
         <br/>
         <br/>
 
