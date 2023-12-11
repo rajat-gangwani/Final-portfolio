@@ -1,17 +1,17 @@
 .project-main{
     display: flex;
-    /* justify-content: space-between; */
     align-items: center;
     flex-direction: row;
-    margin-top: 4rem;
-    /* max-height: 100%; */
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 3rem;
 }
 .project-left{
     display: flex;
     flex-direction: column;
     flex: 1;
-    /* width: 50vw; */
     margin: 2rem;
+    align-self: flex-start;
 }
 .project-right{
     display: flex;

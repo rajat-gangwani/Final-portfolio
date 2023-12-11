@@ -3,9 +3,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-top: 4rem;
-    /* padding: 1rem; */
-    /* position: static; */
+    height: 90vh;
 }
 .home-left{
     padding: 2rem;
